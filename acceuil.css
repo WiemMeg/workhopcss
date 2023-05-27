@@ -1,0 +1,19 @@
+/* css external */
+* { 
+margin: 0;
+padding: 0;
+}
+/* call with tag name */
+body{
+    background-color: rgb(172, 110, 9, 0.93);
+}
+/* call with id name */
+/*ALTgr + "=> */
+#id1 {border-style: solid;
+    border-color: #ffffff;
+}
+/* call with class name */
+.partie {
+
+
+}
